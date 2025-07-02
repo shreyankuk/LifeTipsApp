@@ -1,0 +1,31 @@
+<resources>
+    <!-- Primary palette -->
+    <color name="colorPrimary">#008080</color>
+    <color name="colorPrimaryVariant">#005353</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secondary palette -->
+    <color name="colorSecondary">#FFC107</color>
+    <color name="colorSecondaryVariant">#FFB300</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Surface / Background -->
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+
+    <!-- Dark theme values -->
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorSurfaceDark">#1E1E1E</color>
+    <color name="colorOnSurfaceDark">#EEEEEE</color>
+
+    <!-- Additional colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="light_gray">#F0F0F0</color>
+    <color name="dark_gray">#424242</color>
+    <color name="accent_red">#FF5252</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_blue">#448AFF</color>
+</resources>

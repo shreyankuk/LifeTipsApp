@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Button style -->
+    <style name="AppButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <!-- Text style -->
+    <style name="AppTextTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTextBody">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorOnSurface</item>
+    </style>
+
+    <!-- CardView Style -->
+    <style name="AppCard">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">6dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+</resources>
